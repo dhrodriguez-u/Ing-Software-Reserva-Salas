@@ -50,9 +50,3 @@ Nuestro tablero Kanban de GitHub refleja las fases metodológicas requeridas com
 
 ---
 
-## Integrantes del Equipo y Roles
-
-* **[Daniel]**  
-* **[Yeison]** 
-* **[Juan]** 
----
