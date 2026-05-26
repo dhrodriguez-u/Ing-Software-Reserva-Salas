@@ -1,8 +1,7 @@
-# 🏫 Sistema de Reserva de Salas Universitarias
+# Sistema de Reserva de Salas Universitarias
 
 [![Metodología: Scrum + Kanban](https://img.shields.io/badge/Metodolog%C3%ADa-Scrum%20%2B%20Kanban-orange.svg)]()
-[![Java: 17+](https://img.shields.io/badge/Java-17%2B-blue.svg)]()
-[![Framework: JavaFX](https://img.shields.io/badge/Framework-JavaFX-green.svg)]()
+
 
 Este proyecto consiste en el diseño y desarrollo de un **Sistema de Reserva de Salas** para una comunidad universitaria. El software permite gestionar de manera óptima los espacios físicos (Aulas, Laboratorios y Auditorios), controlando la disponibilidad horaria y evitando conflictos de reservas.
 
@@ -10,7 +9,7 @@ El proyecto se gestiona aplicando el marco de trabajo **Scrum** junto con un tab
 
 ---
 
-## 🚀 Características del Sistema
+## Características del Sistema
 
 El sistema cubre las siguientes necesidades del negocio universitario:
 * **Registrar Salas:** Alta de espacios especificando capacidad y tipo (Aula, Laboratorio, Auditorio).
@@ -21,16 +20,9 @@ El sistema cubre las siguientes necesidades del negocio universitario:
 * **Generar Reporte General:** Módulo estadístico sobre el uso y porcentaje de ocupación de las salas.
 
 ---
-
-## 🛠️ Tecnologías Utilizadas
-
-* **Lenguaje:** Java 17 o superior
-* **Interfaz Gráfica:** JavaFX
-* **Gestor de Dependencias:** Maven
-
 ---
 
-## 📐 Arquitectura del Software
+## Arquitectura del Software
 
 Para el análisis, diseño e implementación de las funcionalidades, el equipo aplica el patrón de arquitectura **Entity-Boundary-Control (EBC)**:
 
@@ -40,7 +32,7 @@ Para el análisis, diseño e implementación de las funcionalidades, el equipo a
 
 ---
 
-## 📋 Gestión del Proyecto (Scrum & Kanban)
+## Gestión del Proyecto (Scrum & Kanban)
 
 El desarrollo del proyecto está estructurado estrictamente bajo un enfoque ágil. El equipo avanza de forma conjunta prioridad por prioridad en el backlog académico:
 
@@ -54,14 +46,13 @@ Nuestro tablero Kanban de GitHub refleja las fases metodológicas requeridas com
 6.  **Diagramas de Colaboración y Secuencia**
 7.  **Implementación del Código en Java**
 
-> 💡 **Nota de Proceso:** El equipo se asigna colectivamente a la prioridad activa en la columna `Haciendo` (In Progress). Aunque la división interna de tareas optimiza la velocidad, la aprobación de cada tarjeta requiere una revisión cruzada en equipo antes de ser trasladada a `Hecho` (Done).
+> **Nota de Proceso:** El equipo se asigna colectivamente a la prioridad activa en la columna `Haciendo` (In Progress). Aunque la división interna de tareas optimiza la velocidad, la aprobación de cada tarjeta requiere una revisión cruzada en equipo antes de ser trasladada a `Hecho` (Done).
 
 ---
 
 ## 👥 Integrantes del Equipo y Roles
 
-* **[Daniel]** - GitHub: `@[Usuario1]`
-* **[Yeison]** - GitHub: `@[Usuario2]`
-* **[Juan]** - GitHub: `@[Usuario3]`
-
+* **[Daniel]**  
+* **[Yeison]** 
+* **[Juan]** 
 ---
